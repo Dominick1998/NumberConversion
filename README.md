@@ -33,4 +33,3 @@ This project contains three C++ programs that perform number base conversions:
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
-```
